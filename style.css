@@ -55,7 +55,6 @@ h1 {
 }
 
 
-
 @media only screen and (max-width: 768px) {
     .front {
         margin: 10% 5%;
@@ -63,7 +62,12 @@ h1 {
 }
 
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 576px) {
+
+    body {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
     .front {
         margin: 15% 2%;
     }

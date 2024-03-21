@@ -39,6 +39,20 @@ h1 {
     border-radius: 10px;
 }
 
+.cooming-soon {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.cooming-soon button {
+    font-size: 20px;
+    color: white;
+    background-color: #0C172D;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
 
 
 @media only screen and (max-width: 768px) {
